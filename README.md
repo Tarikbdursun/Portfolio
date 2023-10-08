@@ -6,8 +6,8 @@ My Portfolio
 -   video : https://www.youtube.com/watch?v=x5anAWVL7SQ&ab_channel=Android%2CiosGamingChannel
 
 > Prisoner Merge
--  https://apps.apple.com/tr/app/prisoner-merge/id1660904612?l=tr
--  video : https://www.youtube.com/watch?v=z-oPVPjGoMo&ab_channel=HyperHybridCasualGames
+-   https://apps.apple.com/tr/app/prisoner-merge/id1660904612?l=tr
+-   video : https://www.youtube.com/watch?v=z-oPVPjGoMo&ab_channel=HyperHybridCasualGames
 
 > Tornado Merge
 -  https://apps.apple.com/tr/app/tornado-merge/id1663179797?l=tr
