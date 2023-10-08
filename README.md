@@ -2,8 +2,8 @@
 My Portfolio
 
 > Level Up Rings
-   https://apps.apple.com/tr/app/level-up-rings/id6444833392?l=tr
-   -video : https://www.youtube.com/watch?v=x5anAWVL7SQ&ab_channel=Android%2CiosGamingChannel
+-   https://apps.apple.com/tr/app/level-up-rings/id6444833392?l=tr
+-   video : https://www.youtube.com/watch?v=x5anAWVL7SQ&ab_channel=Android%2CiosGamingChannel
 
 > Prisoner Merge
   https://apps.apple.com/tr/app/prisoner-merge/id1660904612?l=tr
