@@ -3,11 +3,11 @@ My Portfolio
 
 > Level Up Rings
    https://apps.apple.com/tr/app/level-up-rings/id6444833392?l=tr
-  https://www.youtube.com/watch?v=x5anAWVL7SQ&ab_channel=Android%2CiosGamingChannel
+   -video : https://www.youtube.com/watch?v=x5anAWVL7SQ&ab_channel=Android%2CiosGamingChannel
 
 > Prisoner Merge
   https://apps.apple.com/tr/app/prisoner-merge/id1660904612?l=tr
-  https://www.youtube.com/watch?v=z-oPVPjGoMo&ab_channel=HyperHybridCasualGames
+  -video : https://www.youtube.com/watch?v=z-oPVPjGoMo&ab_channel=HyperHybridCasualGames
 
 > Tornado Merge
   https://apps.apple.com/tr/app/tornado-merge/id1663179797?l=tr
@@ -29,8 +29,8 @@ My Portfolio
 
 > Unwrapper Hands
   https://apps.apple.com/tr/app/unwrapper-hands/id6449705722?l=tr
-  https://www.youtube.com/shorts/FXJNotbQtSs
-  https://www.youtube.com/shorts/uSJpGf2ii9c
+  -video : https://www.youtube.com/shorts/FXJNotbQtSs
+  -video : https://www.youtube.com/shorts/uSJpGf2ii9c
 
 > Be Social !
   https://apps.apple.com/tr/app/be-social/id6450925635?l=tr
